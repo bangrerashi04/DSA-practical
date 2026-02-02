@@ -1,1 +1,1 @@
-# DSA-practical
+# DS-practical
